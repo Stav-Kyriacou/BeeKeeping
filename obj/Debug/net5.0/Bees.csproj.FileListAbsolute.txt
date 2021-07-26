@@ -1,0 +1,16 @@
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.exe
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.deps.json
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.runtimeconfig.json
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.runtimeconfig.dev.json
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.dll
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\ref\Bees.dll
+F:\VSProjects\Programming\Random\Bees\bin\Debug\net5.0\Bees.pdb
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.csprojAssemblyReference.cache
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.AssemblyInfoInputs.cache
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.AssemblyInfo.cs
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.csproj.CoreCompileInputs.cache
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.dll
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\ref\Bees.dll
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.pdb
+F:\VSProjects\Programming\Random\Bees\obj\Debug\net5.0\Bees.genruntimeconfig.cache
